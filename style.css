@@ -12,6 +12,7 @@ h1 {
     text-transform: uppercase;
 }
 
-p {
+p b {
+    text-transform: capitalize;
     color: blue;
 }
