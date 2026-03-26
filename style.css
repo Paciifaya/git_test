@@ -11,3 +11,7 @@ body {
 h1 {
     text-transform: uppercase;
 }
+
+p {
+    color: blue;
+}
