@@ -10,9 +10,5 @@ body {
 
 h1 {
     text-transform: uppercase;
-}
-
-p b {
-    text-transform: capitalize;
-    color: blue;
+    color: red;
 }

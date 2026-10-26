@@ -1,3 +1,1 @@
-let user = document.querySelector('.header');
-
-console.log('hi');
+console.log('hi my name is john doe');
