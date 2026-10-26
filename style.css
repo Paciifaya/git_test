@@ -13,7 +13,7 @@ body {
     align-items: center;
 }
 
-h1 {
+#header {
     text-transform: uppercase;
     color: red;
 }

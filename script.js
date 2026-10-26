@@ -1,8 +1,10 @@
+let header = document.querySelector("#header");
 let name = "kelechi";
-let age = 20;
+let age = 23;
 
 function greet() {
-    console.log(`Hello, my name is ${name} and I am ${age} years old.`);
+    console.log(`${header.innerText} my name is ${name} and I am ${age} years old.`);
 }
 
 greet();
+
